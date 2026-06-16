@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/public/static/pretendard.css");
+
+@theme {
+  --font-omni: "OmniGothic", "Pretendard", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+}
