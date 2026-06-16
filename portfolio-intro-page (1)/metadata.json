@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Intro Page",
+  "description": "A warm, tactile, stationery-inspired entry page with a hand-folded interactive letter envelope.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
